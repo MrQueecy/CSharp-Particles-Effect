@@ -1,0 +1,11 @@
+C:\Users\csxsy\Desktop\ParticlesEffect\ParticlesEffect\bin\Debug\ParticlesEffect.exe.config
+C:\Users\csxsy\Desktop\ParticlesEffect\ParticlesEffect\bin\Debug\ParticlesEffect.exe
+C:\Users\csxsy\Desktop\ParticlesEffect\ParticlesEffect\bin\Debug\ParticlesEffect.pdb
+C:\Users\csxsy\Desktop\ParticlesEffect\ParticlesEffect\obj\Debug\ParticlesEffect.csproj.AssemblyReference.cache
+C:\Users\csxsy\Desktop\ParticlesEffect\ParticlesEffect\obj\Debug\ParticlesEffect.Particles1.resources
+C:\Users\csxsy\Desktop\ParticlesEffect\ParticlesEffect\obj\Debug\ParticlesEffect.Properties.Resources.resources
+C:\Users\csxsy\Desktop\ParticlesEffect\ParticlesEffect\obj\Debug\ParticlesEffect.csproj.GenerateResource.cache
+C:\Users\csxsy\Desktop\ParticlesEffect\ParticlesEffect\obj\Debug\ParticlesEffect.csproj.CoreCompileInputs.cache
+C:\Users\csxsy\Desktop\ParticlesEffect\ParticlesEffect\obj\Debug\ParticlesEffect.exe
+C:\Users\csxsy\Desktop\ParticlesEffect\ParticlesEffect\obj\Debug\ParticlesEffect.pdb
+C:\Users\csxsy\Desktop\ParticlesEffect\ParticlesEffect\obj\Debug\ParticlesEffect.Particles2.resources
